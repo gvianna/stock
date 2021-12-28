@@ -23,12 +23,12 @@ header h1{
 }
 
 section{
-  background: black;
+  background: white;
   padding: 15px;
   width: 1200px;
   margin: auto;
 }
 
 footer{
-  color: black;
+  color: lightgray;
 }
